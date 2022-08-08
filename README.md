@@ -18,7 +18,7 @@ Python (Pandas, Sklearn, Matplotlib, Seaborn, etc)
 
 ## Detailed Process
 ### EDA
-The following ones are examples of the EDA:
+Examples:
 
 <img width="453" alt="trend" src="https://user-images.githubusercontent.com/88640967/183321792-823fcf2d-c446-4f19-9abd-f94f7fd2c078.png">
 
